@@ -31,7 +31,7 @@
         <mxCell id="9OGEWNh7UgSlrJj-osTJ-10" value="事务3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9OGEWNh7UgSlrJj-osTJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OGEWNh7UgSlrJj-osTJ-12" target="9OGEWNh7UgSlrJj-osTJ-14">
+        <mxCell id="9OGEWNh7UgSlrJj-osTJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9OGEWNh7UgSlrJj-osTJ-12" target="9OGEWNh7UgSlrJj-osTJ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9OGEWNh7UgSlrJj-osTJ-12" value="select x 1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -61,8 +61,11 @@
         <mxCell id="9OGEWNh7UgSlrJj-osTJ-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9OGEWNh7UgSlrJj-osTJ-21" value="select x 1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9OGEWNh7UgSlrJj-osTJ-21" value="其它操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OGEWNh7UgSlrJj-osTJ-23" value="select x 1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
