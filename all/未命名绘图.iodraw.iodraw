@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9OGEWNh7UgSlrJj-osTJ-10" value="事务2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9OGEWNh7UgSlrJj-osTJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OGEWNh7UgSlrJj-osTJ-12" target="9OGEWNh7UgSlrJj-osTJ-14">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OGEWNh7UgSlrJj-osTJ-19" value="update x 1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9OGEWNh7UgSlrJj-osTJ-19" value="update x 2000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9OGEWNh7UgSlrJj-osTJ-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
