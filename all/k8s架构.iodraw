@@ -84,7 +84,7 @@
           <mxGeometry x="20" y="760" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-35" value="命名空间级别资源：&lt;div&gt;作用于命名空间之上，通常只能在该命名空间范围内使用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="10" y="895" width="160" height="135" as="geometry" />
+          <mxGeometry x="10" y="895" width="220" height="135" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="830" width="440" height="320" as="geometry" />
