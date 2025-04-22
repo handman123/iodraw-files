@@ -28,8 +28,8 @@
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-10" value="cloud-controller-manager&lt;br&gt;&lt;div&gt;云控制器管理器：第三方云平台提供的控制器API对接管理功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u2ySyJu9sEB7aKc5ptzu-11" value="controller-manager&lt;div&gt;控制器管理器：管理各个类型的控制器&lt;/div&gt;&lt;div&gt;针对k8s中各种资源进行管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="370" width="280" height="60" as="geometry" />
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-11" value="kube-scheduler&lt;div&gt;调度器：负责将pod基于一定算法，将其调用到更合适的节点上&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="570" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
