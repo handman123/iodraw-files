@@ -1,0 +1,65 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="ezUo3TjCPp9WLo4qpe7q">
+    <mxGraphModel dx="1672" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="660" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="610" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-1" value="kubectl&lt;div&gt;命令行工具&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-2" value="Dashboard&lt;div&gt;可视化界面UI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-3" value="api-server&lt;div&gt;接口服务，基于Rest风格开放k8s接口服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-4" value="controller-manager&lt;div&gt;控制器管理器：管理各个类型的控制器&lt;/div&gt;&lt;div&gt;针对k8s中各种资源进行管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;controller-manager&lt;/h1&gt;&lt;p&gt;控制平台组件，负责运行控制器进程&lt;/p&gt;&lt;p&gt;从逻辑上讲，每个控制器都是一个单独的进程，但是为了降低复杂性，他们都被编译到同一个可执行文件，并在同一个进程中运行。&lt;/p&gt;&lt;p&gt;包含：&lt;/p&gt;&lt;p&gt;&amp;nbsp;* 节点控制器：负责节点出现故障时进行通知和响应。&lt;/p&gt;&lt;p&gt;&amp;nbsp;* 任务控制器：监测代表一次性任务job&lt;/p&gt;&lt;p&gt;&amp;nbsp;* 端点分片控制器：&lt;/p&gt;&lt;p&gt;&amp;nbsp;* 服务账号控制器：&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="300" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u2ySyJu9sEB7aKc5ptzu-10" target="u2ySyJu9sEB7aKc5ptzu-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-10" value="cloud-controller-manager&lt;br&gt;&lt;div&gt;云控制器管理器：第三方云平台提供的控制器API对接管理功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-11" value="kube-scheduler&lt;div&gt;调度器：负责将pod基于一定算法，将其调用到更合适的节点上&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-12" value="第三方云平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-15" value="etcd&lt;div&gt;理解为k8s的数据库，键值类型存储的分布式数据库，提供了基于Raft算法实现自主的集群高可用&lt;/div&gt;&lt;div&gt;老版本：基于内存&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;新版本：基于持久化存储&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-19" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;控制面板（Master）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="660" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-21" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;节点（Node）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-22" value="kubelet&lt;div&gt;负责Pod的生命周期、存储、网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="270" width="253" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-24" value="kube-proxy&lt;br&gt;&lt;div&gt;代理：网络代理，负责service的服务发现和负载均衡（4层负载）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="270" width="253" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
