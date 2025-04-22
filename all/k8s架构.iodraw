@@ -83,6 +83,12 @@
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-35" value="集群级别资源：&lt;div style=&quot;font-size: 17px;&quot;&gt;作用集群之上，集群下的所有资源都可以共享使用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="280" y="740" width="360" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="820" width="440" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="830" width="440" height="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
