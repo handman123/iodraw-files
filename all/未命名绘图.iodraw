@@ -32,7 +32,10 @@
           <mxGeometry x="110" y="450" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-12" value="第三方云平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="770" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u2ySyJu9sEB7aKc5ptzu-10" target="u2ySyJu9sEB7aKc5ptzu-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
