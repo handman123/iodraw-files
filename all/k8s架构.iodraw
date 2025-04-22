@@ -59,8 +59,8 @@
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-24" value="kube-proxy&lt;br&gt;&lt;div&gt;代理：网络代理，负责service的服务发现和负载均衡（4层负载）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1114" y="270" width="253" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u2ySyJu9sEB7aKc5ptzu-25" value="kubelet&lt;div&gt;负责Pod的生命周期、存储、网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="370" width="253" height="60" as="geometry" />
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-25" value="container-runtime&lt;div&gt;容器运行时环境：dockers、contalnerd、CRI-O&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="370" width="533" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
