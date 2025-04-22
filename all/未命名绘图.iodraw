@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="200" width="660" height="430" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="610" height="270" as="geometry" />
+          <mxGeometry x="90" y="340" width="610" height="180" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-1" value="kubectl&lt;div&gt;命令行工具&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
@@ -36,7 +36,7 @@
           <mxGeometry x="400" y="360" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-11" value="kube-scheduler&lt;div&gt;调度器：负责将pod基于一定算法，将其调用到更合适的节点上&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="570" height="60" as="geometry" />
+          <mxGeometry x="110" y="440" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-12" value="第三方云平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="50" width="120" height="80" as="geometry" />
