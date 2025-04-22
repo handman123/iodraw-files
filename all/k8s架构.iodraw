@@ -53,7 +53,7 @@
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-21" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;节点（Node）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="210" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u2ySyJu9sEB7aKc5ptzu-22" value="kubelet&lt;div&gt;负责Pod的生命周期、存储、网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;kubelet&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;负责Pod的生命周期、存储、网络&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="270" width="253" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-24" value="kube-proxy&lt;br&gt;&lt;div&gt;代理：网络代理，负责service的服务发现和负载均衡（4层负载）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
