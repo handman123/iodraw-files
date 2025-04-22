@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u2ySyJu9sEB7aKc5ptzu-1" target="u2ySyJu9sEB7aKc5ptzu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-1" value="kubectl&lt;div&gt;命令行工具&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2ySyJu9sEB7aKc5ptzu-2" target="u2ySyJu9sEB7aKc5ptzu-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-2" value="Dashboard&lt;div&gt;可视化界面UI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u2ySyJu9sEB7aKc5ptzu-3" target="u2ySyJu9sEB7aKc5ptzu-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-3" value="api-server&lt;div&gt;接口服务，基于Rest风格开放k8s接口服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="280" height="60" as="geometry" />
