@@ -80,8 +80,8 @@
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;K8s 集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="750" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u2ySyJu9sEB7aKc5ptzu-35" value="集群级别资源：&lt;div&gt;作用集群之上，集群下的所有资源都可以共享使用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="820" width="300" height="60" as="geometry" />
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-35" value="集群级别资源：&lt;div style=&quot;font-size: 17px;&quot;&gt;作用集群之上，集群下的所有资源都可以共享使用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="280" y="740" width="300" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
