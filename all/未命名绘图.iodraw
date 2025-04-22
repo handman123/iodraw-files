@@ -37,7 +37,7 @@
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-12" value="第三方云平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u2ySyJu9sEB7aKc5ptzu-15" value="etcd&lt;div&gt;调度器：负责将pod基于一定算法，将其调用到更合适的节点上&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u2ySyJu9sEB7aKc5ptzu-15" value="etcd&lt;div&gt;理解为k8s的数据库，键值类型存储的分布式数据库，提供了基于Raft算法实现自主的集群高可用&lt;/div&gt;&lt;div&gt;老版本：基于内存&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;新版本：基于持久化存储&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="530" width="570" height="60" as="geometry" />
         </mxCell>
       </root>
