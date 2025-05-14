@@ -155,8 +155,11 @@
         <mxCell id="xiDSEl5HhJll5_RyEaHg-23" value="多源融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1830" y="870" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xiDSEl5HhJll5_RyEaHg-24" value="缺失轨迹生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xiDSEl5HhJll5_RyEaHg-24" value="气象-轨迹同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="800" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiDSEl5HhJll5_RyEaHg-25" value="缺失轨迹生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="800" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
