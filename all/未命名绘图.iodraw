@@ -150,7 +150,7 @@
           <mxGeometry x="1580" y="870" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xiDSEl5HhJll5_RyEaHg-22" value="缺失轨迹生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1567.5" y="800" width="100" height="60" as="geometry" />
+          <mxGeometry x="1520" y="800" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
