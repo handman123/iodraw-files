@@ -137,6 +137,9 @@
         <mxCell id="xiDSEl5HhJll5_RyEaHg-13" value="离群点剔除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xiDSEl5HhJll5_RyEaHg-14" value="运动平滑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
