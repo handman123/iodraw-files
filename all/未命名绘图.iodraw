@@ -123,7 +123,7 @@
           <mxGeometry x="1114" y="770" width="966" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xiDSEl5HhJll5_RyEaHg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="780" width="290" height="125" as="geometry" />
+          <mxGeometry x="1128" y="780" width="290" height="125" as="geometry" />
         </mxCell>
         <mxCell id="xiDSEl5HhJll5_RyEaHg-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1455" y="780" width="290" height="125" as="geometry" />
@@ -134,11 +134,8 @@
         <mxCell id="xiDSEl5HhJll5_RyEaHg-9" value="数据质量提升" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1560" y="910" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xiDSEl5HhJll5_RyEaHg-10" value="离群点剔除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1152" y="790" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xiDSEl5HhJll5_RyEaHg-11" value="离群点剔除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="790" width="90" height="60" as="geometry" />
+        <mxCell id="xiDSEl5HhJll5_RyEaHg-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
