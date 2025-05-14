@@ -105,7 +105,7 @@
           <mxGeometry x="30" y="850" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="u2ySyJu9sEB7aKc5ptzu-43" value="元空间：&lt;div&gt;对于资源的元数据描述，每一个资源可以使用元空间数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1030" width="360" height="70" as="geometry" />
+          <mxGeometry x="-230" y="1030" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
