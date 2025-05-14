@@ -212,7 +212,7 @@
         <mxCell id="xiDSEl5HhJll5_RyEaHg-49" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Bi-STLSTM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1550" y="1300" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xiDSEl5HhJll5_RyEaHg-50" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;缺失轨迹生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="xiDSEl5HhJll5_RyEaHg-50" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;时序依赖捕获&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1230" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xiDSEl5HhJll5_RyEaHg-51" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;注意力融合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
